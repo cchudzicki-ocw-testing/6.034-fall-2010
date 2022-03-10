@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tutorials
 uid: 25b4d967-a959-c4ce-cc7d-0545026be8c6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Tutorial notes are courtesy of Yuan Shen, and are used with permission.

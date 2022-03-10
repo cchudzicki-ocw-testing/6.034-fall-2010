@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_034F10_bayes.pdf
 uid: 3e6200ca-84af-05d9-5712-045abedce9e9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

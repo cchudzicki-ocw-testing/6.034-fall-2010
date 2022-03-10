@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '6.034 Tutorial 3: K-nearest neighbors, decision trees, neural nets'
 uid: 4efa5e56-3ccb-9d54-fdd7-2068a8dda879
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

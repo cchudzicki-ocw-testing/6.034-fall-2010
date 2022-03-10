@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '6.034 Tutorial 1: Rule-based systems, search'
 uid: f0d6c16f-9418-91b8-a270-b9b6f5358b98
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

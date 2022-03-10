@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_034F10_svm.pdf
 uid: c12a7a6a-32ad-7497-b815-b6b93b6d5c00
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

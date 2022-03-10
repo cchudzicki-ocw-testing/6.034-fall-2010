@@ -8,6 +8,10 @@ parent_type: ThisCourseAtMITSection
 parent_uid: f55530ea-3c45-6eb0-4848-4f3ee8291c38
 title: Challenges Teaching Assistants Face
 uid: 72f651ef-7c6c-85f9-293e-445d51148aab
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Jessica Noss and Dylan Holmes share challenges teaching assistants in_ 6.034 Artificial Intelligence _encounter and advice for addressing those challenges._

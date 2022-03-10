@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: d791c36b-92a4-99f1-3db9-fe303e12e948
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These problem sets (also known as "labs" in 6.034) are from the Fall 2012 version of the course, but should line up well with the Fall 2010 lectures.

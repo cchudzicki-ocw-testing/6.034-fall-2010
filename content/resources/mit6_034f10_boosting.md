@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_034F10_boosting.pdf
 uid: 6f12118a-bb4d-06b7-fe81-6142e59dc883
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

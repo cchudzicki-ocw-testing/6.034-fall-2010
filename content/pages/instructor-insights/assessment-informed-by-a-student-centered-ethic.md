@@ -8,6 +8,10 @@ parent_type: ThisCourseAtMITSection
 parent_uid: f55530ea-3c45-6eb0-4848-4f3ee8291c38
 title: Assessment Informed by a Student-Centered Ethic
 uid: 4a383af9-17cb-aa4d-b5da-433f3c40b994
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Jessica Noss and Dylan Holmes, both teaching assistants in_ 6.034 Artificial Intelligence_, discuss how a student-centered ethic shapes assessment and grading in the course. Professor Winston has also written about assessment in the course in an article entitled, [“Skills, Big Ideas, and Getting Grades out of the Way.”](http://web.mit.edu/fnl/volume/204/winston.html)_

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '6.034 Tutorial 5: Support vector machines, boosting'
 uid: 5e183eb5-97b8-5504-f2cd-1391eaf92008
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

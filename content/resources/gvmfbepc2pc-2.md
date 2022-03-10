@@ -8,4 +8,8 @@ ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 967b6b84-0fcb-5cdc-91ea-4b6b81c7362d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

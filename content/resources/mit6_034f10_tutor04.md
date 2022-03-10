@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: '6.034 Tutorial 4: Top-down approach to neural nets'
 uid: 281ccaf4-16d0-de3c-1609-395df5d7a5fe
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

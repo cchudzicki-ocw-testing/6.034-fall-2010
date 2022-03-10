@@ -8,6 +8,10 @@ parent_type: ThisCourseAtMITSection
 parent_uid: f55530ea-3c45-6eb0-4848-4f3ee8291c38
 title: Managing an Online Forum
 uid: 7656320c-8e4e-1623-d713-00b38f3b7a49
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Jessica Noss and Dylan Holmes, both teaching assistants in_ 6.034 Artificial Intelligence_, share their insights about managing Piazza, an online forum students use to ask questions about course content. They identify advantages of using the online forum, as well as challenges it has presented and how course staff members have addressed those challenges._

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: demonstrate.jnlp
 uid: 6c062ac3-42cf-d6aa-4b8b-e040d66a41d0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

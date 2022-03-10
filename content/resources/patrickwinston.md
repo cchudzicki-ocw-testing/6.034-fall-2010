@@ -14,4 +14,8 @@ parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: PatrickWinston
 uid: c91b4448-8e85-cb87-17b2-cea9bb11dbd5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

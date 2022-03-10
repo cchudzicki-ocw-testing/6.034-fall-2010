@@ -6,6 +6,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Videos
 uid: 28d36d64-2636-6698-bf1d-ed18c6190be7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 435aa7fe-d467-35cc-46cd-5e485ee66a1b

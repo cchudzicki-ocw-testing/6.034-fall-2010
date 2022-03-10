@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_034F10_netmath.pdf
 uid: fcd80812-5be0-9dd5-85ec-3ec01c46726d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

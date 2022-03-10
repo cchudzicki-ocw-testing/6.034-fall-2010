@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lab5.zip
 uid: 83e6a28f-35d6-4ccb-e301-fdd938d82c5e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

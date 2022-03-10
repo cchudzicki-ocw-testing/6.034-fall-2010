@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: "6.034 Tutorial 5: Probability, Bayes nets, na\xEFve Bayes, model selection"
 uid: ef21cccd-d50d-0025-bce0-c72746ae182e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

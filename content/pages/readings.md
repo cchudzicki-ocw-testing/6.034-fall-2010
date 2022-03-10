@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 8e1d494b-e6f3-2eb8-ac1d-9abc0eec8c3d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Unless otherwise noted, the readings below are from the course textbook:
