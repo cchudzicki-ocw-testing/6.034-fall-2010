@@ -8,7 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Mega-Recitation Videos
 parent_type: CourseSection
-related_resources_text: '[Quiz 1, Fall 2009 (PDF)](resources/mit6_034f10_quiz1_2009)'
+related_resources_text: '[Quiz 1, Fall 2009 (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_quiz1_2009)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Mega-Recitation 1: Rule-Based Systems'

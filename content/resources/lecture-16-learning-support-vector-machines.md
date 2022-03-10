@@ -10,8 +10,8 @@ optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: Specifically developed for this lecture are the [support vector
-  machine slides (PDF)](resources/mit6_034f10_svm), which are also listed among the
-  readings for this course.
+  machine slides (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_svm),
+  which are also listed among the readings for this course.
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Learning: Support Vector Machines'

@@ -10,8 +10,8 @@ optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: Specifically developed for this lecture are the [boosting
-  notes (PDF)](resources/mit6_034f10_boosting), which are also listed among the readings
-  for this course.
+  notes (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_boosting),
+  which are also listed among the readings for this course.
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 17: Learning: Boosting'

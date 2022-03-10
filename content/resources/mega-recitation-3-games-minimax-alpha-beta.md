@@ -8,8 +8,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Mega-Recitation Videos
 parent_type: CourseSection
-related_resources_text: "[Quiz 2, Fall 2007 (PDF)](resources/mit6_034f10_quiz2_2007)\
-  \  \n[Quiz 2, Fall 2008 (PDF)](resources/mit6_034f10_quiz2_2008)"
+related_resources_text: "[Quiz 2, Fall 2007 (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_quiz2_2007)\
+  \  \n[Quiz 2, Fall 2008 (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_quiz2_2008)"
 resource_index_text: ''
 resourcetype: Video
 title: 'Mega-Recitation 3: Games, Minimax, Alpha-Beta'

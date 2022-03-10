@@ -8,7 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Mega-Recitation Videos
 parent_type: CourseSection
-related_resources_text: '[Final Exam, Fall 2007 (PDF)](resources/mit6_034f10_final_2007)'
+related_resources_text: '[Final Exam, Fall 2007 (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_final_2007)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Mega-Recitation 7: Near Misses, Arch Learning'
