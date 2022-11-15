@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -14,6 +16,7 @@ related_resources_text: Specifically developed for this lecture are the [probabi
   which are also listed among the readings for this course.
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Probabilistic Inference II'
 uid: 307ce222-e2cf-5554-fd41-c4ff21964cea
 video_files:
@@ -28,3 +31,4 @@ video_metadata:
 **Description:** We begin with a review of inference nets, then discuss how to use experimental data to develop a model, which can be used to perform simulations. If we have two competing models, we can use Bayes' rule to determine which is more likely to be accurate.
 
 **Instructor:** Patrick H. Winston
+

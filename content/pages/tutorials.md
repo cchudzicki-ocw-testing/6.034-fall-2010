@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides tutorials on several topics related to artificial
+  intelligence.
 learning_resource_types:
 - Tutorials
 ocw_type: CourseSection
@@ -64,8 +66,7 @@ Top-down approach to neural nets
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Tutorial 5 (PDF)  
-]({{< baseurl >}}/resources/mit6_034f10_tutor05)
+{{% resource_link "5e183eb5-97b8-5504-f2cd-1391eaf92008" "Tutorial 5 (PDF)   " %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Support vector machines, boosting

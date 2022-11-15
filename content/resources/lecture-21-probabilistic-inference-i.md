@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Probabilistic Inference I'
 uid: 9ec82d94-3c58-e90f-2285-b48074e1de01
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** We begin this lecture with basic probability concepts, and then discuss belief nets, which capture causal relationships between events and allow us to specify the model more simply. We can then use the chain rule to calculate the joint probability table.
 
 **Instructor:** Patrick H. Winston
+

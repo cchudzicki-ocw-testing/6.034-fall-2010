@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Introduction to Learning, Nearest Neighbors'
 uid: 5ecfa634-ca4a-6d6a-6acb-0be675223f88
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture begins with a high-level view of learning, then covers nearest neighbors using several graphical examples. We then discuss how to learn motor skills such as bouncing a tennis ball, and consider the effects of sleep deprivation.
 
 **Instructor:** Patrick H. Winston
+

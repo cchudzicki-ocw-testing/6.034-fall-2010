@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Architectures: GPS, SOAR, Subsumption, Society of Mind'
 uid: 6c476e3b-ab60-a3ad-89c0-cde49a2cbdbe
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, we consider cognitive architectures, including General Problem Solver, SOAR, Emotion Machine, Subsumption, and Genesis. Each is based on a different hypothesis about human intelligence, such as the importance of language and stories.
 
 **Instructor:** Patrick H. Winston
+

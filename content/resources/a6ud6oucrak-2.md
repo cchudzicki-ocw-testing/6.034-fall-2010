@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-034-artificial-intelligence-fall-2010/873e6972906c5be98d0452072b5253eb_A6Ud6oUCRak.vtt
+file: /media/courses/6-034-artificial-intelligence-fall-2010/873e6972906c5be98d0452072b5253eb_A6Ud6oUCRak.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

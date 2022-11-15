@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -13,6 +15,7 @@ related_resources_text: Prof. Winston wrote about [the Rumpelstiltskin principle
   which was briefly mentioned in this lecture, in the _Slice of MIT_ blog.
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Constraints: Visual Object Recognition'
 uid: c87beea2-43de-1ebf-431c-ab907dd23f52
 video_files:
@@ -27,3 +30,4 @@ video_metadata:
 **Description:** We consider how object recognition has evolved over the past 30 years. In alignment theory, 2-D projections are used to determine whether an additional picture is of the same object. To recognize faces, we use intermediate-sized features and correlation.
 
 **Instructor:** Patrick H. Winston
+

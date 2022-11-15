@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -14,6 +16,7 @@ related_resources_text: Specifically developed for this lecture are the [boostin
   which are also listed among the readings for this course.
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Learning: Boosting'
 uid: bb982745-cd83-02ec-b5ba-7a0ee144c56f
 video_files:
@@ -28,3 +31,4 @@ video_metadata:
 **Description:** Can multiple weak classifiers be used to make a strong one? We examine the boosting algorithm, which adjusts the weight of each classifier, and work through the math. We end with how boosting doesn't seem to overfit, and mention some applications.
 
 **Instructor:** Patrick H. Winston
+

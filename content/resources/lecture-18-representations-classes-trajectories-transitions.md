@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Representations: Classes, Trajectories, Transitions'
 uid: 6ec4e8a9-8402-4339-15c7-4fc0cf8da9f3
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, we consider the nature of human intelligence, including our ability to tell and understand stories. We discuss the most useful elements of our inner language: classification, transitions, trajectories, and story sequences.
 
 **Instructor:** Patrick H. Winston
+

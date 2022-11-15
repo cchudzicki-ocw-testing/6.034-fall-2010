@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Constraints: Interpreting Line Drawings'
 uid: 610d4a00-9bca-99ce-1e28-75664719d4a3
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** How can we recognize the number of objects in a line drawing? We consider how Guzman, Huffman, and Waltz approached this problem. We then solve an example using a method based on constraint propagation, with a limited set of junction and line labels.
 
 **Instructor:** Patrick H. Winston
+

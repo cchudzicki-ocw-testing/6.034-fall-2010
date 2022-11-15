@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Constraints: Search, Domain Reduction'
 uid: ee1eaf7d-3728-b0c4-7e7f-2c98261083f4
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers map coloring and related scheduling problems. We develop pseudocode for the domain reduction algorithm and consider how much constraint propagation is most efficient, and whether to start with the most or least constrained variables.
 
 **Instructor:** Patrick H. Winston
+

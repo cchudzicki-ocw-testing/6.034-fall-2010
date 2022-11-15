@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides artificial intelligence demonstrations and the
+  Java Runtime Environment required to use them.  '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Demonstrations

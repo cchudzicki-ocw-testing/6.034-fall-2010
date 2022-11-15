@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Search: Games, Minimax, and Alpha-Beta'
 uid: b280315e-784e-cd65-c07f-ac3940bddbbf
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, we consider strategies for adversarial games such as chess. We discuss the minimax algorithm, and how alpha-beta pruning improves its efficiency. We then examine progressive deepening, which ensures that some answer is always available.
 
 **Instructor:** Patrick H. Winston
+

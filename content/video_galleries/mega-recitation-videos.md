@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides selected mega-recitation videos that review problems
+  from previous quizzes with input from the class.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

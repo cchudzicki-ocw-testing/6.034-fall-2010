@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12A: Neural Nets'
 uid: 200f4dde-671b-3c3e-4d4c-227348e14fe8
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description**: In this video, Prof. Winston introduces neural nets and back propagation.
 
 **Instructor**: Patrick H. Winston
+

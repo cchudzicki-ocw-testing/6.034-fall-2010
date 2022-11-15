@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: '[Quiz 3, Fall 2008 (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_quiz3_2008)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mega-Recitation 4: Neural Nets'
 uid: f8ea3e2b-98f3-40fd-56ad-f8d9e5ee9da7
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** We begin by discussing neural net formulas, including the sigmoid and performance functions and their derivatives. We then work Problem 2 of Quiz 3, Fall 2008, which includes running one step of back propagation and matching neural nets with classifiers.
 
 **Instructor:** Mark Seifter
+

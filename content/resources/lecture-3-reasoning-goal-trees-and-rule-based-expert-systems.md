@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -14,6 +16,7 @@ related_resources_text: "Duarte, Jos\xE9 Pinto. \"[Customizing Mass Housing: A D
   \ PhD thesis, MIT, 2001."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems'
 uid: b3069ee1-368e-4581-c1c9-32e57363d93e
 video_files:
@@ -28,3 +31,4 @@ video_metadata:
 **Description:** We consider a block-stacking program, which can answer questions about its own behavior, and then identify an animal given a list of its characteristics. Finally, we discuss how to extract knowledge from an expert, using the example of bagging groceries.
 
 **Instructor:** Patrick H. Winston
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the quizzes and final exam from several semesters
+  of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -13,6 +15,7 @@ related_resources_text: More information about [Evolved Virtual Creatures](http:
   which is shown at the end of the lecture.
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Learning: Genetic Algorithms'
 uid: 94a83126-4c37-2f49-131b-a025945d85ee
 video_files:
@@ -27,3 +30,4 @@ video_metadata:
 **Description:** This lecture explores genetic algorithms at a conceptual level. We consider three approaches to how a population evolves towards desirable traits, ending with ranks of both fitness and diversity. We briefly discuss how this space is rich with solutions.
 
 **Instructor:** Patrick H. Winston
+

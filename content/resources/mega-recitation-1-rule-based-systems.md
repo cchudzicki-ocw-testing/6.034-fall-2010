@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: '[Quiz 1, Fall 2009 (PDF)](/courses/6-034-artificial-intelligence-fall-2010/resources/mit6_034f10_quiz1_2009)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mega-Recitation 1: Rule-Based Systems'
 uid: 12d6b920-bdbb-23bb-65e0-2fb32cf80f9b
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** In this mega-recitation, we cover Problem 1 from Quiz 1, Fall 2009. We begin with the rules and assertions, then spend most of our time on backward chaining and drawing the goal tree for Part A. We end with a brief discussion of forward chaining.
 
 **Instructor:** Mark Seifter
+

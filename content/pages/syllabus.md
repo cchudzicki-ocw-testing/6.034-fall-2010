@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides answers to frequently asked questions
+  about the course and information on meeting times and grading and collaboration
+  policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

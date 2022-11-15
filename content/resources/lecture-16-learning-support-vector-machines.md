@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -14,6 +16,7 @@ related_resources_text: Specifically developed for this lecture are the [support
   which are also listed among the readings for this course.
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Learning: Support Vector Machines'
 uid: 601f8b80-fe4c-bfae-451c-e2106aec111f
 video_files:
@@ -28,3 +31,4 @@ video_metadata:
 **Description:** In this lecture, we explore support vector machines in some mathematical detail. We use Lagrange multipliers to maximize the width of the street given certain constraints. If needed, we transform vectors into another space, using a kernel function.
 
 **Instructor:** Patrick H. Winston
+

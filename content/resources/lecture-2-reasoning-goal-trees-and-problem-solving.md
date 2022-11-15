@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -14,6 +16,7 @@ related_resources_text: 'Slagle, James. "[A Heuristic Program that Solves Symbol
   _Journal of the ACM_ 10 (1963): 507-520.'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Reasoning: Goal Trees and Problem Solving'
 uid: 29f6f34c-a416-76d9-835e-4aca5039592f
 video_files:
@@ -28,3 +31,4 @@ video_metadata:
 **Description:** This lecture covers a symbolic integration program from the early days of AI. We use safe and heuristic transformations to simplify the problem, and then consider broader questions of how much knowledge is involved, and how the knowledge is represented.
 
 **Instructor:** Patrick H. Winston
+

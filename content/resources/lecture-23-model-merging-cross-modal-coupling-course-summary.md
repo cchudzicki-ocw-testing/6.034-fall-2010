@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -18,6 +20,7 @@ related_resources_text: 'Coen, Michael. "[Learning to Sing Like a Bird: Self-Sup
   Motor Systems](http://dspace.mit.edu/handle/1721.1/34022)." PhD thesis, MIT, 2006.'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: Model Merging, Cross-Modal Coupling, Course Summary'
 uid: 6935aafe-aacb-73b5-a744-0332422a5b20
 video_files:
@@ -32,3 +35,4 @@ video_metadata:
 **Description:** This lecture begins with a brief discussion of cross-modal coupling. Prof. Winston then reviews big ideas of the course, suggests possible next courses, and demonstrates how a story can be understood from multiple points of view at a conceptual level.
 
 **Instructor:** Patrick H. Winston
+
